@@ -19,6 +19,6 @@ This is a seflhosted version of the Ultrabrowse proxy. It is still a work in pro
 ```sh
 git clone https://github.com/ultrabrowse/ultrabrowse-selfhosted
 cd ultrabrowse-selfhosted
-npm install
+npm i
 npm start
 ```
